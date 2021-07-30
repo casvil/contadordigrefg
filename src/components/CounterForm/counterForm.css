@@ -1,0 +1,36 @@
+.App-counter-form--wrapper {
+  background-color: #ecf0f1;
+  border-radius: 4px;
+  padding: 8px;
+  margin-bottom: 50px;
+}
+
+.App-counter-form {
+  display: flex;
+  align-items: center;
+}
+
+.App-logo {
+  margin-right: 40px;
+}
+
+.App-counter-form-stopwatch {
+  margin-right: 10px;
+}
+
+input.count-input {
+  width: 30px;
+  margin-right: 5px;
+  text-align: center;
+  
+}
+
+button.input, input.count-input {
+  padding: 2px 4px;
+  font-size: 18px;
+}
+
+.input-labeled {
+  display: flex;
+  align-items: center;
+}
